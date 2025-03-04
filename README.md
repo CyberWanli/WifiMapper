@@ -26,7 +26,7 @@ Tag access points.
 
 _____
 
-Scans are stored in 'sdcard/wifimapper/mapper/[id]_[session]_[date].txt'. 
+Scans are stored in 'sdcard/wifimapper/mapper/[session]_[id]_[Y]_[M]_[D]_[Time].txt.txt'. 
 SSID, MAC address, signal, and frequency are stored for each access point.
 
 
