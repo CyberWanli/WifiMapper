@@ -40,7 +40,7 @@ SSID, MAC address, signal, and frequency are stored for each access point.
 	%SSID|00:1d:70:98:b9:81|-66|2412
 	%SSID|00:21:d8:44:18:71|-69|2437
 	...
-	
+![说明截图](https://github.com/CyberWanli/WifiMapper/blob/master/imgs/Thecontentillustration.png)	
 Access point tags are stored in 'sdcard/wifimapper/tagger.txt'.
 	
 	00\:1d\:a1\:76\:d6\:51=TAG
